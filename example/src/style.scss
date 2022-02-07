@@ -1,0 +1,12 @@
+#app {
+    width: 100%;
+    height: 100%;
+    display: flex;
+
+    #ele,
+    #antd {
+        flex: 1;
+        padding: 30px 20px;
+        border: 1px solid gray;
+    }
+}
